@@ -1,4 +1,4 @@
-# NHL_Tableau_Dashboard
+# 2019-20 NHL Key Statistics Tableau Dashboard
 ### An interactive Tableau dashboard with key offensive, defensive, and team level statistics for the 2019-20 NHL Hockey Season. 
 
 I decided to take advantage of the time off during quarantine to learn new methods and applications for the manipulation and presentation of all types of data. Fortunately for me, Tableau was generous enough to make their entire e-learning platform free for a limited time so I decided to take full advantage and complete the Tableau Data Analyst course using Tableau Public (the professional service is just way too expensive for casual at-home use). Tableau is truly an incredibly powerful and customizable experience for exploring and crafting meaningful data insights.
